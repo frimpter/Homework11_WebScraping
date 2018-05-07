@@ -1,0 +1,56 @@
+<!-- HW11_Frimpter_ScrapingMars -->
+
+
+/* Giving our navbar some padding and a background color 
+.navbar {
+  padding: 10px;
+  background: #ffffff;
+}*/
+
+/* Making our navbar li's inline-block elements 
+.navbar li {
+  display: inline-block;
+  padding: 10px;
+  margin-right: 1px;
+  margin-left: 1px;
+  cursor: pointer;
+  background: #ffffff;
+  border-radius: 3px;
+}*/
+
+/* Getting rid of the default link styles here */
+.navbar li a {
+  color: #000;
+  text-decoration: none;
+}
+
+/* All link styles to black */
+.a {
+  color: #000;
+  text-decoration: none;
+}
+
+.head {
+  background: #DCDCDC
+}
+
+.row {
+  padding: 25px;
+
+}
+
+.col {
+  padding: 5px;
+}
+
+.caption {
+  text-align: center;
+}
+
+.thumbnail {
+  text-align: center;
+}
+
+.gap-right {
+  margin-right: 15px;
+}
